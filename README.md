@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/condessalovelace/mavenquickstart.svg?branch=master)](https://travis-ci.org/condessalovelace/mavenquickstart) 
 ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=br.com%3Amavenquickstart&metric=alert_status)
 
-![Captura de Tela (48)](https://user-images.githubusercontent.com/61218356/90488615-8ed1da80-e112-11ea-8fee-2a8696209a97.png)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/61218356/90539437-30c6e680-e156-11ea-8434-dcd69b5e7aa8.gif)
 
 # Objetivos 🎯
 - Jogo feito com o intuito de recriar o gande clássico dos games, o jogo da cobrinha. Também com o objetivo de treinar as linguagens que foram utilizadas
