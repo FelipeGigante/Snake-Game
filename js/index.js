@@ -4,7 +4,7 @@ window.onload = function () {
     var ctx = stage.getContext("2d")
     document.addEventListener("keydown", keyPush)
 
-    setInterval(game, 80) //a cada 80 milisegundos chamaremos nossa function "game", logo esse é a velocidade do jogo
+    setInterval(game, 120) //a cada 80 milisegundos chamaremos nossa function "game", logo esse é a velocidade do jogo
 
     const vel = 1 //velocidade da cobra
     var vx = vy = 0
